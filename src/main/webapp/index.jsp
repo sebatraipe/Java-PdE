@@ -2,12 +2,12 @@
 <!DOCTYPE html>
 <html>
 <head>
-    <title>JSP - Hello World</title>
+    <title>JSP - Java Web</title>
 </head>
 <body>
-<h1><%= "Hello World!" %>
+<h1><%= "Java-web-PdE" %>
 </h1>
 <br/>
-<a href="hello-servlet">Hello Servlet</a>
+<a href="FormularioLibro.html">Dar de alta un libro</a>
 </body>
 </html>
