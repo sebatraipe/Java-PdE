@@ -8,6 +8,6 @@
 <h1><%= "Java-web-PdE" %>
 </h1>
 <br/>
-<a href="FormularioLibro.html">Dar de alta un libro</a>
+<a href="MostrarLibros.jsp">Listar libros</a>
 </body>
 </html>

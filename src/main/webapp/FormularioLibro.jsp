@@ -37,7 +37,7 @@
     <title>Formulario Libro</title>
 </head>
 <body>
-<form action="destino.html" onsubmit="return validacion();" >
+<form action="InsertarLibro.jsp" onsubmit="return validacion();" >
     <fieldset>
         <legend>Formulario alta libro</legend>
         <p>
